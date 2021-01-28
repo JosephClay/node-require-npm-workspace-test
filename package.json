@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "private": true,
+  "engines": {
+    "node": "15.6.0",
+    "npm": "7.4.0"
+  },
+  "workspaces": [
+    "./modules/*"
+  ]
+}
